@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to [Elementor](https://github.com/pojome/elementor) and [JetEngine](https://jetengine.zemez.io/) for their awesome products
-* Thanks to [PurpleBooth](https://gist.github.com/PurpleBooth) for creating the [readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
+* Thanks to [PurpleBooth](https://gist.github.com/PurpleBooth) for their [awesome readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
 
